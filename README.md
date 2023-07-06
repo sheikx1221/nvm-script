@@ -24,3 +24,5 @@
 
 ## Note
 Since I am using macOS, my default terminal key ends with .osx. If you are using windows, you will use "defaultProfile.windows" and for linux you will use "defaultProfile.linux"
+
+Also, zsh terminal may not be available in OS other than mac, so make sure to change it to bash by replacing zsh to bash everywhere
