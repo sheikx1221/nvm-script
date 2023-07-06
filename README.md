@@ -1,7 +1,7 @@
 # nvm-script
 
 ## Steps to run the script in vscode automatically when you open a terminal
-- Download the .sh file from my GitHub repo
+- Download the nvm-select.sh file
 - Keep it somewhere accessible like ~/scripts
 - Open vscode > settings.json
 - Remove default profile key `terminal.integrated.defaultProfile.osx`
